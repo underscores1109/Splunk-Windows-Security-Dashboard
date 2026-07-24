@@ -1,0 +1,2 @@
+index=* sourcetype="WinEventLog:Security" EventCode=4625
+| stats count

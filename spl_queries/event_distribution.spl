@@ -1,0 +1,2 @@
+index=* sourcetype="WinEventLog:Security"
+| top EventCode
